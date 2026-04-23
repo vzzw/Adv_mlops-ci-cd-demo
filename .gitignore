@@ -1,0 +1,4 @@
+# Credential files
+var/credentials.cfg
+var/git_credentials.cfg
+.DS_Store
